@@ -1,0 +1,19 @@
+itemGroup.nea=Not Enough Aspects
+
+item.nea:drink.name=Концентрат
+item.nea:sanity_drink.name=Концентрат галоперидола
+item.nea:air_drink.name=Концентрат воздуха
+item.nea:ignis_drink.name=Концентрат огня
+item.nea:ordo_drink.name=Концентрат порядка
+item.nea:perditio_drink.name=Концентрат энтропии
+item.nea:terra_drink.name=Концентрат земли
+item.nea:water_drink.name=Концентрат воды
+
+item.nea:briquet.name=Брикет
+item.nea:sanity_briquet.name=Брикет галоперидола
+item.nea:air_briquet.name=Брикет воздуха
+item.nea:ignis_briquet.name=Брикет огня
+item.nea:ordo_briquet.name=Брикет порядка
+item.nea:perditio_briquet.name=Брикет энтропии
+item.nea:terra_briquet.name=Брикет земли
+item.nea:water_briquet.name=Брикет воды

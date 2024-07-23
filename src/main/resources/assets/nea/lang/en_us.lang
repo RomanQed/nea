@@ -1,0 +1,19 @@
+itemGroup.nea=Not Enough Aspects
+
+item.nea:drink.name=Mixture
+item.nea:sanity_drink.name=Haloperidol Mixture
+item.nea:air_drink.name=Air Mixture
+item.nea:ignis_drink.name=Fire Mixture
+item.nea:ordo_drink.name=Order Mixture
+item.nea:perditio_drink.name=Entropy Mixture
+item.nea:terra_drink.name=Earth Mixture
+item.nea:water_drink.name=Water Mixture
+
+item.nea:briquet.name=Briquet
+item.nea:sanity_briquet.name=Haloperidol Briquet
+item.nea:air_briquet.name=Air Briquet
+item.nea:ignis_briquet.name=Fire Briquet
+item.nea:ordo_briquet.name=Order Briquet
+item.nea:perditio_briquet.name=Entropy Briquet
+item.nea:terra_briquet.name=Earth Briquet
+item.nea:water_briquet.name=Water Briquet
