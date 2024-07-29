@@ -1,7 +1,7 @@
 [
 {
   "modid": "nea",
-  "name": "NotEnoughAspects",
+  "name": "Not Enough Aspects",
   "description": "Not Enough Aspects. Adds a way to gain additional aspects by drinking essence potions.",
   "version": "1.0.0",
   "mcversion": "1.12.2",
